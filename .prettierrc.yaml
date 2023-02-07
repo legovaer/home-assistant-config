@@ -1,7 +1,9 @@
-trailingComma: 'es5' 
-tabWidth: 2 
-useTabs: false 
-semi: false 
-singleQuote: true 
-bracketSpacing: true 
-printWidth: 120
+---
+# Configuration file for Prettier
+#
+# Prettier formats my Home Assistant files automatically,
+# this makes things look consistently.
+#
+printWidth: 88
+tabWidth: 2
+useTabs: true
